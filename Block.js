@@ -4,7 +4,7 @@ class Block{
            
             restitution :0.4,
             friction :0.0,
-            //isStatic:true
+            
            
         }
         this.visibility = 225;
